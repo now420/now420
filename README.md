@@ -1,6 +1,6 @@
- <h2>hola amigo me llamo es now420</h2>
-<p>just kinding i dont speak taco</p>
-```cpp
+###
+<h2>hola amigo me llamo es now420</h2>
+```c++
 int main() {
     struct {
         std::string username;
@@ -24,4 +24,5 @@ int main() {
 
     return 0;
 }
+
 ```
