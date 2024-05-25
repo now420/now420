@@ -1,5 +1,5 @@
-# sync
-从原理上来讲，atomic 操作和非 atomic 操作之间不满足线性一致性模型。这和现代计算机的 CPU 乱序执行，以及 compiler 为优化而进行的指令重排有关。在 C++ 中针对各种场景和性能需求提供了各种 memory order 选项：
+# hola amigo me llamo es now420
+just kidding i dont speak taco
 
 ```c++
 int main() {
