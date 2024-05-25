@@ -1,5 +1,4 @@
-### 
-<h2>hola amigo me llamo es now420</h2>
+ <h2>hola amigo me llamo es now420</h2>
 <p>just kinding i dont speak taco</p>
 ```cpp
 int main() {
