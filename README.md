@@ -1,7 +1,7 @@
 ### 
 <h2>hola amigo me llamo es now420</h2>
 <p>just kinding i dont speak taco</p>
-```c++
+```cpp
 int main() {
     struct {
         std::string username;
